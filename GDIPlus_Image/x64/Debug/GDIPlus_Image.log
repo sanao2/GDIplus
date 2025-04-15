@@ -1,0 +1,27 @@
+﻿  Core.cpp
+  Object.cpp
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Core.cpp(69,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Core.cpp(68,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Core.cpp(67,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Core.cpp(66,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Core.cpp(71,38): error C2059: 구문 오류: ')'
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Object.cpp(9,12): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Object.cpp(8,12): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Object.cpp(7,12): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Object.cpp(6,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Player.cpp
+  Render.cpp
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Render.cpp(16,10): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Render.cpp(16,10): warning C4129: 'j': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Render.cpp(19,10): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Render.cpp(22,10): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  코드를 생성하고 있습니다...
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Render.cpp(25,1): warning C4715: 'render::ResourcePath': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Object.h(11,1): error C4716: 'Object::SetPos': 값을 반환해야 합니다.
+C:\Users\user\source\repos\WinAnimation\WindowsProgramming-main\GDIPlus_Image\Object.h(12,1): error C4716: 'Object::SetScale': 값을 반환해야 합니다.
+  컴파일하고 있습니다...
+  Vector2.cpp
+  winmain.cpp
+  코드를 생성하고 있습니다...
