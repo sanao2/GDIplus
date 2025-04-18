@@ -1,0 +1,98 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  Animation.cpp
+  Player.cpp
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(24,10): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(24,10): warning C4129: 'j': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(27,11): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(27,11): warning C4129: 'e': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(30,11): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(30,11): warning C4129: 'e': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(32,11): error C2561: 'SpritePath': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Animation.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(19,13):
+      'SpritePath' 선언을 참조하십시오.
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(24,10): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(24,10): warning C4129: 'j': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(27,11): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(27,11): warning C4129: 'e': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(30,11): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(30,11): warning C4129: 'e': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(32,11): error C2561: 'SpritePath': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(19,13):
+      'SpritePath' 선언을 참조하십시오.
+  
+  Texture.cpp
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(24,10): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(24,10): warning C4129: 'j': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(27,11): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(27,11): warning C4129: 'e': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(30,11): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(30,11): warning C4129: 'e': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(32,11): error C2561: 'SpritePath': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Texture.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(19,13):
+      'SpritePath' 선언을 참조하십시오.
+  
+  Winmain.cpp
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(24,10): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Winmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(24,10): warning C4129: 'j': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Winmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(27,11): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Winmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(27,11): warning C4129: 'e': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Winmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(30,11): warning C4129: 'R': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Winmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(30,11): warning C4129: 'e': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+  (소스 파일 'Winmain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(32,11): error C2561: 'SpritePath': 함수는 값을 반환해야 합니다.
+  (소스 파일 'Winmain.cpp'을(를) 컴파일하는 중)
+      C:\Users\User\source\repos\GDIplus\WinAnim\Animation.h(19,13):
+      'SpritePath' 선언을 참조하십시오.
+  
+  코드를 생성하고 있습니다...
